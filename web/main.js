@@ -555,7 +555,7 @@ function initBuildMode() {
 }
 
 function initPlayMode() {
-	$('.pageTitle').text('Nonogram Puzzle');
+	$('.pageTitle').text('Strano congegno');
 	showBlurb('play');
 
 	$('#paletteSelectorContainer').hide();
